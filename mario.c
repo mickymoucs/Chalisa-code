@@ -1,9 +1,9 @@
-โปรแกรมสร้างกำแพง mario ตาม input เช่น
+/*โปรแกรมสร้างกำแพง mario ตาม input เช่น
 Height: 4
    #
   ##
  ###
-####
+####*/
 
 #include<stdio.h>
 #include<cs50.h>
